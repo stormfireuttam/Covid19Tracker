@@ -1,0 +1,6 @@
+npm install @material-ui/core
+npm install --save react-chartjs-2 chart.js
+npm install numeral
+npm i react-leaflet
+npm i leaflet
+npm install -g firebase-tools
